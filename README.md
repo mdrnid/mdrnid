@@ -1,6 +1,5 @@
 # Hi there, I'm Muh Daryadnan Yurisky Musakkar 👋
 
-### 🚀 Computer Engineering Student & Aspiring AI Engineer
 I am a Computer Engineering student at **Universitas Negeri Makassar**, specializing in **Artificial Intelligence**. I have a profound interest in the intersection of AI and Data, specifically within the realms of **Data Science** and **Data Engineering**. I am passionate about building intelligent systems and architecting robust data pipelines.
 
 ---
@@ -32,13 +31,9 @@ I am a Computer Engineering student at **Universitas Negeri Makassar**, speciali
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="left">
-[![Stats GitHub Kamu](https://github-readme-stats.vercel.app/api?username=mdrnid&show_icons=true&theme=radical)](https://github.com/mdrnid)
-[![Bahasa Populer](https://github-readme-stats.vercel.app/api/top-langs/?username=mdrnid&layout=compact&theme=radical)](https://github.com/mdrnid)
-</p>
+**AI Orchestration & Automation**
+![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -46,5 +41,3 @@ I am a Computer Engineering student at **Universitas Negeri Makassar**, speciali
 - **LinkedIn:** [Muh Daryadnan Yurisky Musakkar](https://www.linkedin.com/in/muh-daryadnan-yurisky-musakkar-582694322/)
 - **Email:** muhdaryadnan499@gmail.com
 
----
-*“Turning data into intelligence, one line of code at a time.”*
