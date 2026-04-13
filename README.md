@@ -37,7 +37,7 @@ I am a Computer Engineering student at **Universitas Negeri Makassar**, speciali
 ### 📊 GitHub Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=mdrnid&show_icons=true&theme=radical" alt="Daryadnan's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARYADNAN_USERNAME_ANDA&layout=compact&theme=radical" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrnid&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
